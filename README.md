@@ -80,7 +80,7 @@
 
 ```text
 @misc{Chinese-PetroEngineering-Data-Distill-From-R1,
-  author = {Xueqiang Ma, Saina Yue},
+  author = {Xueqiang Ma, Saina Yue, Haojie Wang, Hongpeng Ma, Haoyang Bai},
   title = {The Chinese Petroleum Engineering Dataset Distilled from DeepSeek-R1},
   year = {2025},
   publisher = {GitHub},
