@@ -79,7 +79,7 @@
   title = {The Chinese Petroleum Engineering Dataset Distilled from DeepSeek-R1},
   year = {2025},
   publisher = {GitHub},
-  journal = {GitHub repository},
+  journal = {max180123},
   howpublished = {\url{https://github.com/max180123/Petro_Distall_R1.git}},
 }
 ```
