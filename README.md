@@ -1,25 +1,8 @@
----
-license: Apache License 2.0
-
-text:
-  #二级只能属于一个task_categories
-  text-generation:
-    #三级可以多选
-    languages:
-      - zh
-
-configs: # 配置数据集的子数据集和划分
-- config_name: default
-  data_files:
-  - split: train
-    path: "Petro_Distall_R1.json"
-
----
 
 # 中文石油工程领域DeepSeek-R1蒸馏数据集（Chinese-PetroEngineering-Data-Distill-From-R1）
 
 <p align="center">
-🤗 <a href="https://huggingface.co/datasets/YOUR_USERNAME/Chinese-PetroEngineering-DeepSeek-R1-Distill">Hugging Face</a>&nbsp&nbsp | &nbsp&nbsp🤖 <a href="https://modelscope.cn/datasets/YOUR_USERNAME/Chinese-PetroEngineering-DeepSeek-R1-Distill">ModelScope</a> &nbsp&nbsp | &nbsp&nbsp🚀 <a href="https://github.com/YOUR_USERNAME/Chinese-PetroEngineering-Data-Distill-From-R1">Github</a>
+🤗 <a href="https://huggingface.co/datasets/YOUR_USERNAME/Chinese-PetroEngineering-DeepSeek-R1-Distill">Hugging Face</a>&nbsp&nbsp | &nbsp&nbsp🤖 <a href="https://modelscope.cn/datasets/YOUR_USERNAME/Chinese-PetroEngineering-DeepSeek-R1-Distill">ModelScope</a> &nbsp&nbsp | &nbsp&nbsp🚀 <a href="https://github.com/max180123/Petro_Distall_R1.git">Github</a>
 </p>
 
 本数据集为中文石油工程领域基于DeepSeek-R1全量版蒸馏的专业数据集，涵盖井工程、完井工程、岩石力学等油气井工程领域的核心知识，总数据量为13,083条。
@@ -97,16 +80,12 @@ configs: # 配置数据集的子数据集和划分
   year = {2025},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished = {\url{https://github.com/YOUR_USERNAME/Chinese-PetroEngineering-Data-Distill-From-R1}},
+  howpublished = {\url{https://github.com/max180123/Petro_Distall_R1.git}},
 }
 ```
 
 ## 联系作者
-
-请替换以下联系方式为您的实际联系方式：
-
-- GitHub: [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- Email: your.email@example.com
+- Email: ma180123@163.com
 
 ## 致谢
 
