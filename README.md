@@ -5,14 +5,14 @@
 🤗 <a href="https://huggingface.co/datasets/max180123/Chinese-PetroEngineering-Data-Distill-From-R1">Hugging Face</a>&nbsp&nbsp | &nbsp&nbsp🤖 <a href="https://modelscope.cn/datasets/max0123/Chinese-PetroEngineering-Data-Distill-From-R1">ModelScope</a> &nbsp&nbsp | &nbsp&nbsp🚀 <a href="https://github.com/max180123/Petro_Distall_R1.git">Github</a>
 </p>
 
-本数据集为中文石油工程领域基于DeepSeek-R1全量版蒸馏的专业数据集，涵盖井工程、完井工程、岩石力学等油气井工程领域的核心知识，总数据量为13,083条。
+本数据集为中文石油工程领域基于DeepSeek-R1全量版蒸馏的专业数据集，涵盖钻井工程、完井工程、岩石力学等油气井工程领域的核心知识，总数据量为13,083条。
 
 ## 数据集特点
 
 本数据集具有以下特点：
 
 1. **专业领域覆盖**：
-   - 井工程技术
+   - 钻井工程
    - 完井工程
    - 岩石力学
    - 其他油气井工程相关领域
